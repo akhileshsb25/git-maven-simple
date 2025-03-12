@@ -22,4 +22,4 @@ pipeline {
             }
         }
     }
- 
+}  // Add this closing brace to end the pipeline block
